@@ -1,0 +1,8 @@
+{
+  "name": "ubud-mobile",
+  "app_id": "53586550",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
